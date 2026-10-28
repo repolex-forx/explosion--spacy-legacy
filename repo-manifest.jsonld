@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/explosion/spacy-legacy/commit/4ccfdb78d417ea14ae3653bef643d53ee0953928",
       "git:hexsha": "4ccfdb78d417ea14ae3653bef643d53ee0953928",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/explosion/spacy-legacy/commit/6387f63e92743063635225f0c9daf56fd8d3512f",

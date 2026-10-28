@@ -1,0 +1,7 @@
+[2026-10-28T11:34:29Z] === AST ITERATION 1 START | repo=explosion/spacy-legacy sha=4ccfdb78 ===
+[2026-10-28T11:34:29Z] [iter=1] PHASE START: ast repo=explosion/spacy-legacy sha=4ccfdb78
+[2026-10-28T11:34:29Z] [iter=1] Building AST aggregate chunks
+[2026-10-28T11:34:39Z] [iter=1] AST chunks built count=1 triples=89870
+[2026-10-28T11:34:39Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/4ccfdb78d417ea14ae3653bef643d53ee0953928/.complete
+[2026-10-28T11:34:39Z] [iter=1] PHASE END: ast elapsed_s=9 elapsed_min=0.2
+[2026-10-28T11:34:39Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
