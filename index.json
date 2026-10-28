@@ -1,0 +1,11 @@
+{
+  "org": "explosion",
+  "repo": "spacy-legacy",
+  "versions": [
+    {
+      "commit": "4ccfdb78d417ea14ae3653bef643d53ee0953928",
+      "tag": "",
+      "parsed_at": "2026-10-28T11:35:49.354505+00:00"
+    }
+  ]
+}
